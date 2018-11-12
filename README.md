@@ -1,1 +1,1 @@
-Epitech.Bomberman
+# Epitech - Bomberman
